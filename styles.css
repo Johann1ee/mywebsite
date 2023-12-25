@@ -1,0 +1,16 @@
+
+/*website background*/
+body {
+    background-color: black;
+    color: white;
+}
+
+/*github logo*/
+#github-logo{
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) 
+}
